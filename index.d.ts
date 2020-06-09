@@ -1,1 +1,1 @@
-export = EventTarget
+export default EventTarget
