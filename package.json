@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/ungap/event-target#readme",
   "type": "module",
+  "types": "index.d.ts",
   "exports": {
     "import": "./esm/index.js",
     "default": "./cjs/index.js"
