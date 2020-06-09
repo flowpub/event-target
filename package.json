@@ -1,5 +1,5 @@
 {
-  "name": "@ungap/event-target",
+  "name": "@flowpub/event-target",
   "version": "0.2.0",
   "description": "An EventTarget polyfill",
   "main": "./cjs/index.js",
@@ -19,7 +19,7 @@
     "polyfill",
     "ungap"
   ],
-  "author": "Andrea Giammarchi",
+  "author": "FlowPub",
   "license": "ISC",
   "devDependencies": {
     "coveralls": "^3.1.0",
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ungap/event-target.git"
+    "url": "git+https://github.com/flowpub/event-target.git"
   },
   "bugs": {
-    "url": "https://github.com/ungap/event-target/issues"
+    "url": "https://github.com/flowpub/event-target/issues"
   },
-  "homepage": "https://github.com/ungap/event-target#readme",
+  "homepage": "https://github.com/flowpub/event-target#readme",
   "type": "module",
   "types": "index.d.ts",
   "exports": {
