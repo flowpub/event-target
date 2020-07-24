@@ -2,7 +2,7 @@
 
 Fork of [ungap/event-target](https://github.com/ungap/event-target).
 
-This fork adds TypeScript definitions.
+This fork adds TypeScript definitions and makes it a [ponyfill](https://ponyfill.com).
 
 -------
 
